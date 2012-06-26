@@ -13,9 +13,8 @@ CFLAGS = -Wall -Wextra -Wshadow -DNDEBUG -O2
 #CFLAGS = -Wall -Wextra -Wshadow -DNDEBUG
 
 ## install configuration:
-PREFIX  = /usr
-BINDIR  = $(PREFIX)/bin
-SBINDIR = $(PREFIX)/sbin
-MANDIR  = $(PREFIX)/share/man
+BINDIR = /usr/bin
+SBINDIR = /usr/sbin
+MANDIR  = /usr/share/man
 
 ### EOF (conf.mk)
