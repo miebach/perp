@@ -83,6 +83,14 @@ and ./runtools subdirectories.  It is suggested to skim the following
 pages for an overview of the system:  perp_intro.8, perpd.8, perpetrate.5,
 and perp-setup.8.
 
+There is also a manual online: 
+
+http://b0llix.net/perp/site.cgi?page=manual
+  
+Use perpctl from the commandline to interact with a running daemon:
+
+http://b0llix.net/perp/site.cgi?page=perpctl.8
+
 
 Process 1 (/sbin/init) Support:
 
